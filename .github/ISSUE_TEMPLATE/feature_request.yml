@@ -1,6 +1,7 @@
 name: Feature Request
 description: Request a new feature or enhancement
 labels: ["enhancement"]
+assignees: ["andrea-acampora"]
 title: "feat: "
 body:
   - type: markdown
