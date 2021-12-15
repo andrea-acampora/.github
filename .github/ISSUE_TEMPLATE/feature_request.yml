@@ -1,7 +1,7 @@
-name: ✨Feature Request
+name: Feature Request
 description: Request a new feature or enhancement
 labels: ["enhancement"]
-title: "[FEAT]: "
+title: "feat: "
 body:
   - type: markdown
     attributes:
